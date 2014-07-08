@@ -5,3 +5,6 @@ This is a new line to my file
 
 
 This is a second new line.
+
+
+This is third line, yes it is!
